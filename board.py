@@ -89,3 +89,5 @@ class Board:
         else:
             pass
         
+    def random_method(self):
+        pass 

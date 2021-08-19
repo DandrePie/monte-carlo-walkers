@@ -88,6 +88,3 @@ class Board:
             self.walker_location.append([[walker1.x, walker1.y], [walker2.x, walker2.y]])
         else:
             pass
-        
-    def random_method(self):
-        pass 
